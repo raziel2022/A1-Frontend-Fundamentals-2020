@@ -31,6 +31,8 @@ diferencia?
   </body>
 </html>
 ```
+holaa
+hohol
 
 La principal diferencia es el peso semántico que le queremos dar al texto, si
 el texto que queremos mostrar no es necesariamente diferente a cualquier otro
